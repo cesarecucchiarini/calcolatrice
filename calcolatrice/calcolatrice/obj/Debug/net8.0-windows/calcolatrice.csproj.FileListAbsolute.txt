@@ -1,0 +1,16 @@
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.exe
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.deps.json
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.runtimeconfig.json
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.dll
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.pdb
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.Form1.resources
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.dll
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\refint\calcolatrice.dll
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.pdb
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\ref\calcolatrice.dll
