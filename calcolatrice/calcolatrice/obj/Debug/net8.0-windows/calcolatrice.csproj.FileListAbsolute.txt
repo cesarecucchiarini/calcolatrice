@@ -14,3 +14,4 @@ C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatric
 C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.pdb
 C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.genruntimeconfig.cache
 C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\ref\calcolatrice.dll
+C:\Users\sergi\OneDrive\Desktop\progettiC#\calcolatrice\calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.sourcelink.json
